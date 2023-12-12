@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-06T06:52:12.262897700Z</date>
+  <millis>1701845532262</millis>
+  <nanos>897700</nanos>
+  <sequence>0</sequence>
+  <logger>management.HotelManagementSystem</logger>
+  <level>WARNING</level>
+  <class>management.HotelManagementSystem</class>
+  <method>getCheckInDetails</method>
+  <thread>1</thread>
+  <message>Error in date format: Text 'we' could not be parsed at index 0</message>
+</record>
+<record>
+  <date>2023-12-06T06:52:45.632149800Z</date>
+  <millis>1701845565632</millis>
+  <nanos>149800</nanos>
+  <sequence>1</sequence>
+  <logger>management.HotelManagementSystem</logger>
+  <level>WARNING</level>
+  <class>management.HotelManagementSystem</class>
+  <method>getCheckInDetails</method>
+  <thread>1</thread>
+  <message>Error in date format: Invalid date. Please enter a date on or after today.</message>
+</record>
